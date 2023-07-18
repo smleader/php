@@ -1,3 +1,3 @@
 # php
-pip -r reqi
+pip -r requirements.txt <br>
 python send.py
