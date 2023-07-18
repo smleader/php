@@ -1,0 +1,1 @@
+Makan soto minum sosro
